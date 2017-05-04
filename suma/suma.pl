@@ -1,0 +1,1 @@
+suma(Sumando1,Sumando2,Resultado):- Resultado is Sumando1 + Sumando2. 
